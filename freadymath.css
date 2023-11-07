@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    width: 600px;
+    height: 700px;
+    margin: 0 auto;
+}
+div {
+    border: 1px solid black;
+}
+.box{
+    height: 100px;
+}
+
+.box div {
+    width: 199px;
+    height: 100px;
+    float: left;
+}
